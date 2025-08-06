@@ -1,6 +1,6 @@
 # 🧾 Invoice Extractor using SmolVLM 
 
-Extract structured fields like invoice number, date, total amount, and line items from scanned invoices using HuggingFace’s `SmolVLM-Instruct` model 
+Extract structured fields like invoice number, date, total amount, and line items from scanned invoices using HuggingFace’s `SmolVLM-Instruct` model or `Idefics3` multimodal vision-language model — all within a **Kaggle Notebook** environment.
 
 <p align="center">
   <img src="examples/sample_invoice.jpg" width="600"><br>
